@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meta <font color="#F11965">Motiva</font></string>
+    <string name="app_name2">Meta <font color="#FF902A">Motiva</font></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="phrase_1">"Acordar cedo e planejar metas para cada dia vivenciado é desafiar e ter autoconfiança." - <font color="#F11965">Kurt Cobain</font></string>
+    <string name="phrase_2">"Se quiser viver uma vida feliz, amarre-se a uma meta, não às pessoas nem às coisas." - <font color="#F11965">Albert Einstein</font></string>
+
+    <string name="developed_by">Desenvolvido por: <font color="#FF902A">johnndev17</font></string>
+</resources>
